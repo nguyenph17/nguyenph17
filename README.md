@@ -12,15 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+![Matrix SVG](https://github.com/nguyenph17/vi-video-shift/assets/113575105/a7cf39f2-6adf-4a58-88a6-0baf0ced1042)
 
-
-### I'am Nguyen Pham 👋
 [![Linkedin Badge](https://img.shields.io/badge/-NguyenPham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyen-pham-730972174/)](https://www.linkedin.com/in/nguyen-pham-730972174/)
 [![Gmail Badge](https://img.shields.io/badge/-nguyenph.work@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nguyenph.work@gmail.com)](mailto:nguyenph.work@gmail.com)
 
-
-- 🔭 I’m currently working on AI/ML
 - 🎯 Portfolio website: [Portfolio](https://nguyenph17.github.io/my-portfolio/)
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 
