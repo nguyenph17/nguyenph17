@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![Matrix SVG](https://github.com/nguyenph17/vi-video-shift/assets/113575105/a7cf39f2-6adf-4a58-88a6-0baf0ced1042)
 
 [![Linkedin Badge](https://img.shields.io/badge/-NguyenPham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phamhoainguyen/)](https://www.linkedin.com/in/phamhoainguyen/)
-[![Gmail Badge](https://img.shields.io/badge/-nguyenph.work@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.nguyenph@gmail.com)](mailto:dev.nguyenph@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-dev.nguyenph@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.nguyenph@gmail.com)](mailto:dev.nguyenph@gmail.com)
 
 - 🎯 Portfolio website: [Portfolio](https://nguyenph17.github.io/my-portfolio/)
 - 📬 How to reach me: [Let's get in touch!][linkedin]
